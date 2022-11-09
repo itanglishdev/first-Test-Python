@@ -1,16 +1,11 @@
- #Fundamental Data types
-int
-float
-bool
-str
-list
-tuple
-set
-dict 
+#Fundamental Data types
+# int and float
 
-#Classes -> custom types
+print(type(2 + 4))
+print(type(2 - 4))
+print(type(2 * 4))
+print(type(2 / 4))
 
+print(type(0.0001))
+print(type(0))
 
-#Specialized Data Types
-
-None 
